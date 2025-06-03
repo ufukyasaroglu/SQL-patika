@@ -1,3 +1,5 @@
+-1-
+
 1-SELECT title, description FROM film;
 
 2-SELECT * FROM film
@@ -14,3 +16,4 @@ WHERE first_name = ‘Mary';
 WHERE length  <= 50
 AND rental_rate NOT IN (2.99 , 4.99);
 
+-2-
